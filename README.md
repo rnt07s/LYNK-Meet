@@ -2,7 +2,7 @@
 
 # 🚀 Project Overview
 
-## ⚙️ Tech 
+## ⚙️ Tec
 
 - **Next.js**
 - **TypeScript**
