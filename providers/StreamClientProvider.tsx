@@ -6,6 +6,7 @@ import { StreamVideoClient, StreamVideo } from '@stream-io/video-react-sdk';
 
 import { tokenProvider } from '@/actions/stream.actions';
 import Loader from '@/components/Loader';
+import { useUser } from '@clerk/nextjs';
 
 const API_KEY = process.env.NEXT_PUBLIC_STREAM_API_KEY;
 
